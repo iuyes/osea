@@ -5,7 +5,7 @@ Other things in seajs
 
 ###为什么选择使用seajs
 *    异步脚本加载。通过异步加载脚步，加快页面加载速度。
-*    CommonJS规范。引入模块化JS开发规范。
+*    模块化JS开发。引入模块化JS开发规范CommonJS。
 *    很潮很牛B。国人开发，模块化JS技术  
 
 ###使用seajs时你需要做好哪些准备
