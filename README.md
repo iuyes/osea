@@ -21,4 +21,4 @@ seajs是一个遵循了CommonJS标准的脚本异步加载工具，别无其他�
 *    最重要的是让你学习到前端开发的一整套流程。
 
 ###seajs令人困惑的地方
-*    AMD和CMD，不要把CMD当作与AMD并行的技术规范，CMD只是seajs对自己使用CommonJS方式的一个昵称，CMD相对AMD并没有主张非常特别或者有优势的CommonJS实现技术，所以从技术角度比对AMD与CMD无任何实际意义。
+*    AMD和CMD，不要把CMD当作与AMD并行的技术规范，CMD只是seajs对自己使用CommonJS方式的一个昵称。CommonJS是现今模块化js开发的标准性规范，而AMD是CommonJS的一个具体实现。CMD相对AMD，并没有向CommonJS贡献特别或者有优势的实现，所以从技术角度比对AMD与CMD无任何实际意义。
